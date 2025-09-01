@@ -1,0 +1,11 @@
+# Python Windows Application Dependencies
+# All dependencies are built-in Python modules, no external packages required
+
+# Built-in modules used:
+# - tkinter (GUI framework)
+# - sqlite3 (database)
+# - hashlib (password hashing)
+# - re (regular expressions)
+# - datetime (timestamp handling)
+
+# No external packages needed - this application uses only Python standard library
