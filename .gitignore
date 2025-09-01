@@ -189,6 +189,8 @@ email_logs/
 # Configuration files with sensitive data
 config.ini
 secrets.json
+smtp_config.py
+src/cms/config/smtp_config.py
 
 # Executable files
 *.exe
